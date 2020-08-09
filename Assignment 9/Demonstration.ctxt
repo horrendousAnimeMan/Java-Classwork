@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Demonstration
+comment0.text=\r\nDescription\:\ Driver/Demo\ for\ Morse\ Converter\ class,\ for\ Assignment\ 9,\ p.603,\ \#16.\r\nClass\:\ Fall\ -\ COSC\ 1437.81002\r\nAssignment\:\ Assignment\ 9,\ Chapter\ 8\r\nDate\:\ 06/28/2017\r\n@author\ \ Benjamin\ Guthrie\r\n@version\ 1.0.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ @param\ String[]\ args\:\ no\ idea\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Sets\ up\ the\ MorseConverter\ object\ and\ completes\ it.\r\n
+numComments=2

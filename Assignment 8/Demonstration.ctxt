@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Demonstration
+comment0.text=\r\nDescription\:\ Driver\ for\ Assignment\ 8,\ p.540,\ \#2\:\ Demo\ of\ Payroll\ Class.\r\nClass\:\ Fall\ -\ COSC\ 1437.81002\r\nAssignment\:\ Assignment\ 8,\ Chapter\ 7\r\nDate\:\ 06/26/2017\r\n@author\ \ Benjamin\ Guthrie\r\n@version\ 1.0.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ @param\ String[]\ args\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Creates\ a\ Payroll\ object\ and\ populates\ it.\r\n
+numComments=2

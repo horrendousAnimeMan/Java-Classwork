@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=wordGame
+comment0.text=\r\nDescription\:\ Mad-libs\!\ \ User\ input\ becomes\ unique\ values\ in\ a\ string.\r\nClass\:\ Fall\ -\ COSC\ 1437.81002\r\nAssignment\:\ Assignment\ 3,\ Chapter\ 2\r\nDate\:\ 06/07/2017\r\n@author\ \ Benjamin\ Guthrie\r\n@version\ 1.0.0\r\n
+comment1.params=
+comment1.target=wordGame()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ wordGame\r\n
+comment2.params=
+comment2.target=void\ outputStrings()
+comment3.params=
+comment3.target=void\ requestInput()
+comment4.params=
+comment4.target=java.lang.String\ buildStringOldWay()
+comment5.params=
+comment5.target=java.lang.String\ buildStringNewWay()
+numComments=6

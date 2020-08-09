@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CourseGrades
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CourseGrades\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=CourseGrades()
+comment1.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Sets\ up\ the\ CourseGrades\ object\ with\ proper\ array\ length.\r\n
+comment2.params=g1
+comment2.target=void\ setLab(GradedActivity)
+comment2.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Sets\ up\ the\ Lab\ object.\r\n
+comment3.params=e1
+comment3.target=void\ setEssay(Essay)
+comment3.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Sets\ up\ the\ Essay\ object.\r\n
+comment4.params=f1
+comment4.target=void\ setFinalExam(FinalExam)
+comment4.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Sets\ up\ the\ FinalExam\ object.\r\n
+comment5.params=p1
+comment5.target=void\ setPassFailExam(PassFailExam)
+comment5.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Sets\ up\ the\ PassFailExam\ object.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ @param\ none\r\n\ @return\ String\ the\ big\ one\r\n\ @throws\ none\r\n\ Returns\ the\ large\ string\ containing\ all\ data\ in\ object.\r\n
+numComments=7

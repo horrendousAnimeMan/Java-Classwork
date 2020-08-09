@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=BatchValidator
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BatchValidator\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=BatchValidator()
+comment2.params=filenameIn
+comment2.target=BatchValidator(java.lang.String)
+comment3.params=in
+comment3.target=void\ stringArrayFromFile(java.lang.String)
+comment3.text=\r\n\ @param\ String\ in\r\n\ @return\ none\r\n\ @throws\ IOException\r\n\ Converts\ a\ file\ specified\ by\ filename\ to\ a\ String[].\r\n
+comment4.params=
+comment4.target=void\ dataToFile()
+comment4.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ IOException\r\n\ Writes\ the\ pertinent\ data\ in\ the\ object\ to\ a\ new\ file,\ output.txt.\r\n
+comment5.params=
+comment5.target=void\ setCards()
+comment5.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ From\ a\ list\ of\ valid\ numbers,\ creates\ a\ new\ card\ with\ the\ corresponding\ carrier.\r\n
+comment6.params=
+comment6.target=void\ populateCarrierHashmap()
+comment6.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Populates\ the\ carrier\ Hashmap\ with\ IIN's\ and\ their\ corresponding\ carriers.\r\n
+comment7.params=init
+comment7.target=void\ initialCleanup(java.util.ArrayList)
+comment7.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Trims\ the\ initial\ data\ of\ invalid\ values.\r\n
+comment8.params=in
+comment8.target=boolean\ luhnValidate(java.lang.String)
+comment8.text=\r\n\ @param\ none\r\n\ @return\ boolean\ isValid\r\n\ @throws\ none\r\n\ Validates\ true\ or\ false\ based\ on\ the\ Luhn\ algorithm.\r\n
+numComments=9

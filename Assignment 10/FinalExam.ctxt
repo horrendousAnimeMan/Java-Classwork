@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FinalExam
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FinalExam\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=FinalExam()
+comment1.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Sets\ up\ the\ FinalExam\ object.\r\n
+comment2.params=questions\ missed
+comment2.target=FinalExam(int,\ int)
+comment2.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Sets\ up\ the\ Payroll\ object\ based\ on\ predetermined\ inputs.\r\n
+numComments=3

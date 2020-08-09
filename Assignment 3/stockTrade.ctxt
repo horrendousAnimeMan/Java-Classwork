@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=stockTrade
+comment0.text=\r\nDescription\:\ Determine\ profit\ from\ a\ transaction\ using\ user\ input.\r\nClass\:\ Fall\ -\ COSC\ 1437.81002\r\nAssignment\:\ Assignment\ 3,\ Chapter\ 2\r\nDate\:\ 06/07/2017\r\n@author\ \ Benjamin\ Guthrie\r\n@version\ 1.0.0\r\n
+comment1.params=
+comment1.target=stockTrade()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ stockTrade\r\n
+comment2.params=
+comment2.target=void\ outputData()
+comment3.params=
+comment3.target=void\ requestInput()
+comment4.params=
+comment4.target=void\ computeTransactionData()
+numComments=5

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\r\n\=\=\=\=\=\=\=THIS\ STUFF\ FPLZ\=\=\=\=\=\=\r\ndouble\ radius\r\nfinal\ double\ pi\r\n\r\nConstructor(radius)\r\n\r\nget/set\ Radius()\:\r\ngetArea/diameter/circumference()\:\r\n
+comment1.params=
+comment1.target=Circle()
+comment10.params=
+comment10.target=void\ requestInput()
+comment11.params=s
+comment11.target=void\ quickPrint(java.lang.String)
+comment2.params=radius
+comment2.target=Circle(double)
+comment3.params=
+comment3.target=void\ displayStats()
+comment4.params=input
+comment4.target=void\ setRadius(double)
+comment5.params=
+comment5.target=double\ getRadius()
+comment6.params=
+comment6.target=double\ getArea()
+comment7.params=
+comment7.target=double\ getDiameter()
+comment8.params=
+comment8.target=double\ getCircumference()
+comment9.params=
+comment9.target=void\ setStats()
+numComments=12

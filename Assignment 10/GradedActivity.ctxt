@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GradedActivity
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GradedActivity\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=GradedActivity()
+comment1.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Sets\ up\ the\ GradedActivity\ object.\r\n
+comment2.params=in
+comment2.target=void\ setScore(double)
+comment2.text=\r\n\ @param\ double\ scoreToBeSet\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Sets\ score.\r\n
+comment3.params=
+comment3.target=double\ getScore()
+comment3.text=\r\n\ @param\ none\r\n\ @return\ this.score\r\n\ @throws\ none\r\n\ Returns\ its\ score.\r\n
+comment4.params=
+comment4.target=void\ setGradeFromScore()
+comment4.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Determines\ grade\ from\ this.score.\r\n
+comment5.params=setGrade
+comment5.target=void\ setGrade(char)
+comment5.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Sets\ the\ grade.\r\n
+comment6.params=
+comment6.target=char\ getGrade()
+comment6.text=\r\n\ @param\ none\r\n\ @return\ this.grade\r\n\ @throws\ none\r\n\ Sets\ up\ the\ Payroll\ object.\r\n
+numComments=7

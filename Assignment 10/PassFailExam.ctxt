@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PassFailExam
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PassFailExam\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=PassFailExam()
+comment1.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Sets\ up\ the\ PassFail\ object\ and\ chuckles\ at\ the\ way\ the\ default\ constructor\ is\ called.\r\n
+comment2.params=
+comment2.target=void\ setGradeFromScore()
+comment2.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Weighs\ grade\ against\ minimum\ passing\ score,\ assigns\ grade\ to\ object.\r\n
+numComments=3

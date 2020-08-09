@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=FuelGuage
+comment0.text=\r\nDescription\:\ Fuel\ Guage\ class\ for\ Assignment\ 7,\ p.446,\ \#12\:Car-Instrument\ Simulator.\r\nClass\:\ Fall\ -\ COSC\ 1437.81002\r\nAssignment\:\ Assignment\ 7,\ Chapter\ 6\r\nDate\:\ 06/21/2017\r\n@author\ \ Benjamin\ Guthrie\r\n@version\ 1.0.0\r\n
+comment1.params=
+comment1.target=FuelGuage()
+comment1.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Initializes\ a\ new\ FuelGuage.\r\n
+comment2.params=
+comment2.target=int\ getFuelLevel()
+comment2.text=\r\n\ @param\ none\r\n\ @return\ this.currentFuelLevel\r\n\ @throws\ none\r\n\ Returns\ the\ current\ fuel\ level.\r\n
+comment3.params=
+comment3.target=int\ getMPG()
+comment3.text=\r\n\ @param\ none\r\n\ @return\ this.mpg\r\n\ @throws\ none\r\n\ Returns\ the\ MPG\ of\ the\ FuelGuage.\r\n
+comment4.params=
+comment4.target=void\ addFuel()
+comment4.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Adds\ fuel\ to\ the\ tank\ as\ long\ as\ it's\ not\ above\ the\ maximum.\r\n
+comment5.params=
+comment5.target=void\ decFuel()
+numComments=6

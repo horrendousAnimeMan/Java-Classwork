@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\nDescription\:\ Play\ Dice-Blackjack\ against\ the\ CPU\ as\ prescribed\ on\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ p.354,\ \#24\r\nClass\:\ Fall\ -\ COSC\ 1437.81002\r\nAssignment\:\ Assignment\ 6,\ Chapter\ 5\r\nDate\:\ 06/15/2017\r\n@author\ \ Benjamin\ Guthrie\r\n@version\ 1.0.0\r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Sets\ up\ the\ game.\r\n
+comment2.params=index
+comment2.target=int\ getTotal(int)
+comment2.text=\r\n\ @param\ int\ index,\ the\ 0\ or\ 1\ value\ referring\ to\ player\ or\ CPU.\r\n\ @return\ int\ t.\r\n\ @throws\ none\r\n\ Returns\ the\ total\ of\ the\ dice\ in\ the\ player\ or\ CPU's\ hand.\r\n
+comment3.params=
+comment3.target=void\ hitOrStay()
+comment3.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ CPU,\ then\ player\ decide\ whether\ to\ hit\ or\ stay.\r\n
+comment4.params=
+comment4.target=void\ determineWinner()
+comment4.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Determines\ who\ has\ won.\r\n
+numComments=5

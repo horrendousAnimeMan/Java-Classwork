@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Die
+comment0.text=\r\nDescription\:\ Die\ class\ from\ Chapter\ 4,p.265,\ extended.\r\nClass\:\ Fall\ -\ COSC\ 1437.81002\r\nAssignment\:\ Assignment\ 6,\ Chapter\ 5\r\nDate\:\ 06/15/2017\r\n@author\ \ Benjamin\ Guthrie\r\n@version\ 1.0.0\r\n
+comment1.params=
+comment1.target=Die()
+comment1.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Sets\ up\ the\ dice,\ rolls\ it.\r\n
+comment2.params=sidesIn
+comment2.target=Die(int)
+comment2.text=\r\n\ @param\ int\ sidesIn\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Sets\ up\ the\ dice\ with\ a\ specified\ number\ of\ sides,\ rolls\ it.\r\n
+comment3.params=
+comment3.target=int\ roll()
+comment3.text=\r\n\ @param\ none\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Rolls\ the\ dice.\r\n
+comment4.params=
+comment4.target=int\ getSides()
+comment4.text=\r\n\ @param\ none\r\n\ @return\ this.sides\r\n\ @throws\ none\r\n\ returns\ the\ number\ of\ sides\ on\ the\ dice.\r\n
+comment5.params=
+comment5.target=int\ getValue()
+comment5.text=\r\n\ @param\ none\r\n\ @return\ this.side\r\n\ @throws\ none\r\n\ returns\ the\ up-facing\ side\ of\ the\ dice.\r\n
+numComments=6

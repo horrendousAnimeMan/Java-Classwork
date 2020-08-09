@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Demonstration
+comment0.text=\r\nDescription\:\ Driver/demo\ class\ for\ Assignment\ 7,\ p.446,\ \#12\:Car-Instrument\ Simulator.\r\nClass\:\ Fall\ -\ COSC\ 1437.81002\r\nAssignment\:\ Assignment\ 7,\ Chapter\ 6\r\nDate\:\ 06/21/2017\r\n@author\ \ Benjamin\ Guthrie\r\n@version\ 1.0.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ @param\ String[]\ args\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Creates\ new\ FuelGuage\ and\ Odometer,\ fills\ the\ tank,\ then\ drives\ until\ the\ tank\ is\ depleted.\r\n\ Keeps\ track\ of\ mileage\ and\ fuel\ level.\r\n
+numComments=2

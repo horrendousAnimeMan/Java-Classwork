@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\=\=\=\=\=THIS\ STUFF\ PLZ\=\=\=\=\=\=\r\nthis.yearModel\r\nthis.make\r\nthis.speed\r\n\r\nConstructor\:\ year/make\ as\ args\r\nAccessor(s)\r\n\r\naccelerate()\:+5\ speed\r\nbrake()\:-5\ speed\r\n\r\n
+comment1.params=
+comment1.target=Car()
+comment2.params=yearMake\ model
+comment2.target=Car(java.lang.String,\ java.lang.String)
+comment3.params=s
+comment3.target=void\ quickPrint(java.lang.String)
+comment4.params=
+comment4.target=double\ getSpeed()
+comment5.params=
+comment5.target=java.lang.String[]\ getStats()
+comment6.params=index
+comment6.target=java.lang.String\ getStatsAt(int)
+comment7.params=
+comment7.target=void\ requestInput()
+comment8.params=
+comment8.target=void\ accelerate()
+comment9.params=
+comment9.target=void\ brake()
+numComments=10

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Temperature
+comment0.text=\r\n\=\=\=\=\=THIS\ STUFF\ PLZ\=\=\=\=\=\=\=\r\ndouble\ ftemp\:given\ value\r\n\r\nTemperature()\:get\ input\r\n\r\nget/set\ ftemp()\:\r\nget\ ctemp()\:centigrade\:\ (5/9)*(ftemp-32)\r\nget\ ktemp()\:kelvin\:\ ((5/9)*(ftemp-32))+273\r\n
+comment1.params=
+comment1.target=Temperature()
+comment2.params=ftemp
+comment2.target=Temperature(double)
+comment3.params=index
+comment3.target=double\ getTempAt(int)
+comment4.params=
+comment4.target=void\ displayTemperatures()
+comment5.params=
+comment5.target=void\ convertF()
+comment6.params=s
+comment6.target=void\ quickPrint(java.lang.String)
+comment7.params=
+comment7.target=void\ requestInput()
+numComments=8

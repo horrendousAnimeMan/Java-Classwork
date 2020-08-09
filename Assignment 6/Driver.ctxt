@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Driver
+comment0.text=\r\nDescription\:\ Driver\ for\ Assignment\ 6,\ p.354,\ \#24\:\ A\ Game\ of\ 21.\r\nClass\:\ Fall\ -\ COSC\ 1437.81002\r\nAssignment\:\ Assignment\ 6,\ Chapter\ 5\r\nDate\:\ 06/15/2017\r\n@author\ \ Benjamin\ Guthrie\r\n@version\ 1.0.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ @param\ String[]\ args\r\n\ @return\ none\r\n\ @throws\ none\r\n\ Plays\ a\ Game\ named\ tim.\r\n
+numComments=2
